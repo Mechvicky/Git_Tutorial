@@ -1,1 +1,3 @@
 lajkdhviygdv
+
+Some of the scopes you’ve selected are included in other scopes. Only the minimum set of necessary scopes has been saved.  
